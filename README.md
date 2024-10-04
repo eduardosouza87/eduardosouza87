@@ -2,9 +2,9 @@
 
 Sou **Software Engineer Sênior Front-End**.
 
----
+_Trabalho com algumas tecnologias abaixo:_
 
-## 🚀 Tecnologias e Ferramentas
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
