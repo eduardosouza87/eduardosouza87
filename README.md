@@ -20,15 +20,6 @@ Sou **Software Engineer Sênior Front-End**.
 ---
 
 ## 📫 Contato
-
-<p align="left">
-  <a href="mailto:dudufazpratu@gmail.com">
-    <img src="https://img.shields.io/badge/-dudufazpratu@gmail.com-D14836?logo=Gmail&logoColor=white&style=for-the-badge" alt="Email">
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dudufazpratu@gmail.com)
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**eduardosouza87**&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
